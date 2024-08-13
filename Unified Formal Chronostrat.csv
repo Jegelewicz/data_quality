@@ -1,0 +1,179 @@
+Stratum,Search Terms,Term Type,minumum age (MYA),maximum age (MYA),supereon,eon_eonothem,era_erathem,system_period,series_epoch,stage_age,relative_sort_order
+Eoarchean,Eoarchean,era_erathem,3600,4031,Precambrian,Archean,Eoarchean,,,,2
+Mesoarchean,Mesoarchean,era_erathem,2800,3200,Precambrian,Archean,Mesoarchean,,,,2
+Neoarchean,Neoarchean,era_erathem,2500,2800,Precambrian,Archean,Neoarchean,,,,2
+Paleoarchean,Paleoarchean,era_erathem,3200,3600,Precambrian,Archean,Paleoarchean,,,,2
+Archean,"Archean,Neoarchean,Mesoarchean,Paleoarchean,Eoarchean",eon_eonothem,2500,4031,Precambrian,Archean,,,,,1
+Hadean,Hadean,eon_eonothem,4031,4567,Precambrian,Hadean,,,,,1
+Calymmian,Calymmian,system_period,1400,1600,Precambrian,Proterozoic,Mesoproterozoic,Calymmian,,,3
+Ectasian,Ectasian,system_period,1200,1400,Precambrian,Proterozoic,Mesoproterozoic,Ectasian,,,3
+Stenian,Stenian,system_period,1000,1200,Precambrian,Proterozoic,Mesoproterozoic,Stenian,,,3
+Mesoproterozoic,"Mesoproterozoic,Stenian,Ectasian,Calymmian",era_erathem,1000,1600,Precambrian,Proterozoic,Mesoproterozoic,,,,2
+Cryogenian,Cryogenian,system_period,635,720,Precambrian,Proterozoic,Neoproterozoic,Cryogenian,,,3
+Ediacaran,Ediacaran,system_period,538.8,635,Precambrian,Proterozoic,Neoproterozoic,Ediacaran,,,3
+Tonian,Tonian,system_period,720,1000,Precambrian,Proterozoic,Neoproterozoic,Tonian,,,3
+Neoproterozoic,"Neoproterozoic,Ediacaran,Cryogenian,Tonian",era_erathem,538.8,1000,Precambrian,Proterozoic,Neoproterozoic,,,,2
+Orosirian,Orosirian,system_period,1800,2050,Precambrian,Proterozoic,Paleoproterozoic,Orosirian,,,3
+Rhyacian,Rhyacian,system_period,2050,2300,Precambrian,Proterozoic,Paleoproterozoic,Rhyacian,,,3
+Siderian,Siderian,system_period,2300,2500,Precambrian,Proterozoic,Paleoproterozoic,Siderian,,,3
+Statherian,Statherian,system_period,1600,1800,Precambrian,Proterozoic,Paleoproterozoic,Statherian,,,3
+Paleoproterozoic,"Paleoproterozoic,Statherian,Orosirian,Rhyacian,Siderian",era_erathem,1600,2500,Precambrian,Proterozoic,Paleoproterozoic,,,,2
+Proterozoic,"Proterozoic,Neoproterozoic,Mesoproterozoic,Paleoproterozoic,Ediacaran,Cryogenian,Tonian,Stenian,Ectasian,Calymmian,Statherian,Orosirian,Rhyacian,Siderian",eon_eonothem,538.8,2500,Precambrian,Proterozoic,,,,,1
+Precambrian,"Precambrian,Hadean,Archean,Proterozoic,Neoproterozoic,Mesoproterozoic,Paleoproterozoic,Neoarchean,Mesoarchean,Paleoarchean,Eoarchean,Ediacaran,Cryogenian,Tonian,Stenian,Ectasian,Calymmian,Statherian,Orosirian,Rhyacian,Siderian",supereon,538.8,4567,Precambrian,,,,,,0
+Aquitanian,Aquitanian,stage_age,20.44,23.03,,Phanerozoic,Cenozoic,Neogene,Miocene,Aquitanian,5
+Burdigalian,Burdigalian,stage_age,15.98,20.44,,Phanerozoic,Cenozoic,Neogene,Miocene,Burdigalian,5
+Langhian,Langhian,stage_age,13.82,15.98,,Phanerozoic,Cenozoic,Neogene,Miocene,Langhian,5
+Messinian,Messinian,stage_age,5.33,7.246,,Phanerozoic,Cenozoic,Neogene,Miocene,Messinian,5
+Serravallian,Serravallian,stage_age,11.63,13.82,,Phanerozoic,Cenozoic,Neogene,Miocene,Serravallian,5
+Tortonian,Tortonian,stage_age,7.246,11.63,,Phanerozoic,Cenozoic,Neogene,Miocene,Tortonian,5
+Miocene,"Miocene,Messinian,Tortonian,Serravallian,Langhian,Burdigalian,Aquitanian",series_epoch,5.33,23.03,,Phanerozoic,Cenozoic,Neogene,Miocene,,4
+Piacenzian,Piacenzian,stage_age,2.58,3.6,,Phanerozoic,Cenozoic,Neogene,Pliocene,Piacenzian,5
+Zanclean,Zanclean,stage_age,3.6,5.33,,Phanerozoic,Cenozoic,Neogene,Pliocene,Zanclean,5
+Pliocene,"Pliocene,Piacenzian,Zanclean",series_epoch,2.58,5.33,,Phanerozoic,Cenozoic,Neogene,Pliocene,,4
+Neogene,"Neogene,Pliocene,Piacenzian,Zanclean,Miocene,Messinian,Tortonian,Serravallian,Langhian,Burdigalian,Aquitanian",system_period,2.58,23.03,,Phanerozoic,Cenozoic,Neogene,,,3
+Bartonian,Bartonian,stage_age,37.71,41.2,,Phanerozoic,Cenozoic,Paleogene,Eocene,Bartonian,5
+Lutetian,Lutetian,stage_age,41.2,47.8,,Phanerozoic,Cenozoic,Paleogene,Eocene,Lutetian,5
+Priabonian,Priabonian,stage_age,33.9,37.71,,Phanerozoic,Cenozoic,Paleogene,Eocene,Priabonian,5
+Ypresian,Ypresian,stage_age,47.8,56,,Phanerozoic,Cenozoic,Paleogene,Eocene,Ypresian,5
+Eocene,"Eocene,Priabonian,Bartonian,Lutetian,Ypresian",series_epoch,33.9,56,,Phanerozoic,Cenozoic,Paleogene,Eocene,,4
+Chattian,Chattian,stage_age,23.03,27.82,,Phanerozoic,Cenozoic,Paleogene,Oligocene,Chattian,5
+Rupelian,Rupelian,stage_age,27.82,33.9,,Phanerozoic,Cenozoic,Paleogene,Oligocene,Rupelian,5
+Oligocene,"Oligocene,Chattian,Rupelian",series_epoch,23.03,33.9,,Phanerozoic,Cenozoic,Paleogene,Oligocene,,4
+Danian,Danian,stage_age,61.6,66,,Phanerozoic,Cenozoic,Paleogene,Paleocene,Danian,5
+Selandian,Selandian,stage_age,59.2,61.6,,Phanerozoic,Cenozoic,Paleogene,Paleocene,Selandian,5
+Thanetian,Thanetian,stage_age,56,59.2,,Phanerozoic,Cenozoic,Paleogene,Paleocene,Thanetian,5
+Paleocene,"Paleocene,Thanetian,Selandian,Danian",series_epoch,56,66,,Phanerozoic,Cenozoic,Paleogene,Paleocene,,4
+Paleogene,"Paleogene,Oligocene,Chattian,Rupelian,Eocene,Priabonian,Bartonian,Lutetian,Ypresian,Paleocene,Thanetian,Selandian,Danian",system_period,23.03,66,,Phanerozoic,Cenozoic,Paleogene,,,3
+Greenlandian,Greenlandian,stage_age,0.0082,0.0117,,Phanerozoic,Cenozoic,Quaternary,Holocene,Greenlandian,5
+Meghalayan,Meghalayan,stage_age,0,0.0042,,Phanerozoic,Cenozoic,Quaternary,Holocene,Meghalayan,5
+Northgrippian,Northgrippian,stage_age,0.0042,0.0082,,Phanerozoic,Cenozoic,Quaternary,Holocene,Northgrippian,5
+Holocene,"Holocene,Meghalayan,Northgrippian,Greenlandian",series_epoch,0,0.0117,,Phanerozoic,Cenozoic,Quaternary,Holocene,,4
+Calabrian,Calabrian,stage_age,0.774,1.8,,Phanerozoic,Cenozoic,Quaternary,Pleistocene,Calabrian,5
+Chibanian,Chibanian,stage_age,0.129,0.774,,Phanerozoic,Cenozoic,Quaternary,Pleistocene,Chibanian,5
+Gelasian,Gelasian,stage_age,1.8,2.58,,Phanerozoic,Cenozoic,Quaternary,Pleistocene,Gelasian,5
+Upper Pleistocene,Upper Pleistocene,stage_age,0.0117,0.129,,Phanerozoic,Cenozoic,Quaternary,Pleistocene,Upper Pleistocene,5
+Pleistocene,"Pleistocene,Upper Pleistocene,Chibanian,Calabrian,Gelasian",series_epoch,0.0117,2.58,,Phanerozoic,Cenozoic,Quaternary,Pleistocene,,4
+Quaternary,"Quaternary,Holocene,Meghalayan,Northgrippian,Greenlandian,Pleistocene,Upper Pleistocene,Chibanian,Calabrian,Gelasian",system_period,0,2.58,,Phanerozoic,Cenozoic,Quaternary,,,3
+Cenozoic,"Cenozoic,Paleogene,Oligocene,Chattian,Rupelian,Eocene,Priabonian,Bartonian,Lutetian,Ypresian,Paleocene,Thanetian,Selandian,Danian,Neogene,Pliocene,Piacenzian,Zanclean,Miocene,Messinian,Tortonian,Serravallian,Langhian,Burdigalian,Aquitanian,Quaternary,Holocene,Meghalayan,Northgrippian,Greenlandian,Pleistocene,Upper Pleistocene,Chibanian,Calabrian,Gelasian",era_erathem,0,66,,Phanerozoic,Cenozoic,,,,2
+Albian,Albian,stage_age,100.5,113,,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,Albian,5
+Aptian,Aptian,stage_age,113,121.4,,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,Aptian,5
+Barremian,Barremian,stage_age,121.4,125.77,,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,Barremian,5
+Berriasian,Berriasian,stage_age,139.8,145,,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,Berriasian,5
+Hauterivian,Hauterivian,stage_age,125.77,132.6,,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,Hauterivian,5
+Valanginian,Valanginian,stage_age,132.6,139.8,,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,Valanginian,5
+Lower Cretaceous,"Lower Cretaceous,Albian,Aptian,Barremian,Hauterivian,Valanginian,Berriasian",series_epoch,100.5,145,,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,,4
+Campanian,Campanian,stage_age,72.1,83.6,,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,Campanian,5
+Cenomanian,Cenomanian,stage_age,93.9,100.5,,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,Cenomanian,5
+Coniacian,Coniacian,stage_age,86.3,89.8,,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,Coniacian,5
+Maastrichtian,Maastrichtian,stage_age,66,72.1,,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,Maastrichtian,5
+Santonian,Santonian,stage_age,83.6,86.3,,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,Santonian,5
+Turonian,Turonian,stage_age,89.8,93.9,,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,Turonian,5
+Upper Cretaceous,"Upper Cretaceous,Maastrichtian,Campanian,Santonian,Coniacian,Turonian,Cenomanian",series_epoch,66,100.5,,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,,4
+Cretaceous,"Cretaceous,Lower Cretaceous,Albian,Aptian,Barremian,Hauterivian,Valanginian,Berriasian,Upper Cretaceous,Maastrichtian,Campanian,Santonian,Coniacian,Turonian,Cenomanian",system_period,66,145,,Phanerozoic,Mesozoic,Cretaceous,,,3
+Hettangian,Hettangian,stage_age,199.5,201.4,,Phanerozoic,Mesozoic,Jurassic,Lower Jurassic,Hettangian,5
+Pliensbachian,Pliensbachian,stage_age,184.2,192.2,,Phanerozoic,Mesozoic,Jurassic,Lower Jurassic,Pliensbachian,5
+Sinemurian,Sinemurian,stage_age,192.2,199.5,,Phanerozoic,Mesozoic,Jurassic,Lower Jurassic,Sinemurian,5
+Toarcian,Toarcian,stage_age,174.7,184.2,,Phanerozoic,Mesozoic,Jurassic,Lower Jurassic,Toarcian,5
+Lower Jurassic,"Lower Jurassic,Toarcian,Pliensbachian,Sinemurian,Hettangian",series_epoch,174.7,201.4,,Phanerozoic,Mesozoic,Jurassic,Lower Jurassic,,4
+Aalenian,Aalenian,stage_age,170.9,174.7,,Phanerozoic,Mesozoic,Jurassic,Middle Jurassic,Aalenian,5
+Bajocian,Bajocian,stage_age,168.2,170.9,,Phanerozoic,Mesozoic,Jurassic,Middle Jurassic,Bajocian,5
+Bathonian,Bathonian,stage_age,165.3,168.2,,Phanerozoic,Mesozoic,Jurassic,Middle Jurassic,Bathonian,5
+Callovian,Callovian,stage_age,161.5,165.3,,Phanerozoic,Mesozoic,Jurassic,Middle Jurassic,Callovian,5
+Middle Jurassic,"Middle Jurassic,Callovian,Bathonian,Bajocian,Aalenian",series_epoch,161.5,174.7,,Phanerozoic,Mesozoic,Jurassic,Middle Jurassic,,4
+Kimmeridgian,Kimmeridgian,stage_age,149.2,154.8,,Phanerozoic,Mesozoic,Jurassic,Upper Jurassic,Kimmeridgian,5
+Oxfordian,Oxfordian,stage_age,154.8,161.5,,Phanerozoic,Mesozoic,Jurassic,Upper Jurassic,Oxfordian,5
+Tithonian,Tithonian,stage_age,145,149.2,,Phanerozoic,Mesozoic,Jurassic,Upper Jurassic,Tithonian,5
+Upper Jurassic,"Upper Jurassic,Tithonian,Kimmeridgian,Oxfordian",series_epoch,145,161.5,,Phanerozoic,Mesozoic,Jurassic,Upper Jurassic,,4
+Jurassic,"Jurassic,Lower Jurassic,Toarcian,Pliensbachian,Sinemurian,Hettangian,Middle Jurassic,Callovian,Bathonian,Bajocian,Aalenian,Upper Jurassic,Tithonian,Kimmeridgian,Oxfordian",system_period,145,201.4,,Phanerozoic,Mesozoic,Jurassic,,,3
+Induan,Induan,stage_age,251.2,251.902,,Phanerozoic,Mesozoic,Triassic,Lower Triassic,Induan,5
+Olenekian,Olenekian,stage_age,247.2,251.2,,Phanerozoic,Mesozoic,Triassic,Lower Triassic,Olenekian,5
+Lower Triassic,"Lower Triassic,Olenekian,Induan",series_epoch,247.2,251.902,,Phanerozoic,Mesozoic,Triassic,Lower Triassic,,4
+Anisian,Anisian,stage_age,242,247.2,,Phanerozoic,Mesozoic,Triassic,Middle Triassic,Anisian,5
+Ladinian,Ladinian,stage_age,237,242,,Phanerozoic,Mesozoic,Triassic,Middle Triassic,Ladinian,5
+Middle Triassic,"Middle Triassic,Ladinian,Anisian",series_epoch,237,247.2,,Phanerozoic,Mesozoic,Triassic,Middle Triassic,,4
+Carnian,Carnian,stage_age,227,237,,Phanerozoic,Mesozoic,Triassic,Upper Triassic,Carnian,5
+Norian,Norian,stage_age,208.5,227,,Phanerozoic,Mesozoic,Triassic,Upper Triassic,Norian,5
+Rhaetian,Rhaetian,stage_age,201.4,208.5,,Phanerozoic,Mesozoic,Triassic,Upper Triassic,Rhaetian,5
+Upper Triassic,"Upper Triassic,Rhaetian,Norian,Carnian",series_epoch,201.4,237,,Phanerozoic,Mesozoic,Triassic,Upper Triassic,,4
+Triassic,"Triassic,Lower Triassic,Olenekian,Induan,Middle Triassic,Ladinian,Anisian,Upper Triassic,Rhaetian,Norian,Carnian",system_period,201.4,251.902,,Phanerozoic,Mesozoic,Triassic,,,3
+Mesozoic,"Mesozoic,Triassic,Lower Triassic,Olenekian,Induan,Middle Triassic,Ladinian,Anisian,Upper Triassic,Rhaetian,Norian,Carnian,Jurassic,Lower Jurassic,Toarcian,Pliensbachian,Sinemurian,Hettangian,Middle Jurassic,Callovian,Bathonian,Bajocian,Aalenian,Upper Jurassic,Tithonian,Kimmeridgian,Oxfordian,Cretaceous,Lower Cretaceous,Albian,Aptian,Barremian,Hauterivian,Valanginian,Berriasian,Upper Cretaceous,Maastrichtian,Campanian,Santonian,Coniacian,Turonian,Cenomanian",era_erathem,66,251.902,,Phanerozoic,Mesozoic,,,,2
+Cambrian Stage 3,Cambrian Stage 3,stage_age,514,521,,Phanerozoic,Paleozoic,Cambrian,Cambrian Series 2,Cambrian Stage 3,5
+Cambrian Stage 4,Cambrian Stage 4,stage_age,509,514,,Phanerozoic,Paleozoic,Cambrian,Cambrian Series 2,Cambrian Stage 4,5
+Cambrian Series 2,"Cambrian Series 2,Cambrian Stage 3, Cambrian Stage 4",series_epoch,509,521,,Phanerozoic,Paleozoic,Cambrian,Cambrian Series 2,,4
+Cambrian Stage 10,Cambrian Stage 10,stage_age,485.4,489.5,,Phanerozoic,Paleozoic,Cambrian,Furongian,Cambrian Stage 10,5
+Jiangshanian,Jiangshanian,stage_age,489.5,494,,Phanerozoic,Paleozoic,Cambrian,Furongian,Jiangshanian,5
+Paibian,Paibian,stage_age,494,497,,Phanerozoic,Paleozoic,Cambrian,Furongian,Paibian,5
+Furongian,"Furongian,Paibian,Jiangshanian,Cambrian Stage 10",series_epoch,485.4,497,,Phanerozoic,Paleozoic,Cambrian,Furongian,,4
+Drumian,Drumian,stage_age,500.5,504.5,,Phanerozoic,Paleozoic,Cambrian,Miaolingian,Drumian,5
+Guzhangian,Guzhangian,stage_age,497,500.5,,Phanerozoic,Paleozoic,Cambrian,Miaolingian,Guzhangian,5
+Wuliuan,Wuliuan,stage_age,504.5,509,,Phanerozoic,Paleozoic,Cambrian,Miaolingian,Wuliuan,5
+Miaolingian,"Miaolingian,Wuliuan,Drumian,Guzhangian",series_epoch,497,509,,Phanerozoic,Paleozoic,Cambrian,Miaolingian,,4
+Cambrian Stage 2,Cambrian Stage 2,stage_age,521,529,,Phanerozoic,Paleozoic,Cambrian,Terreneuvian,Cambrian Stage 2,5
+Fortunian,Fortunian,stage_age,529,538.8,,Phanerozoic,Paleozoic,Cambrian,Terreneuvian,Fortunian,5
+Terreneuvian,"Terreneuvian,Fortunian,Cambrian Stage 2",series_epoch,521,538.8,,Phanerozoic,Paleozoic,Cambrian,Terreneuvian,,4
+Cambrian,"Cambrian,Terreneuvian,Cambrian Series 2,Miaolingian,Furongian,Fortunian,Cambrian Stage 2,Cambrian Stage 3,Cambrian Stage 4,Wuliuan,Drumian,Guzhangian,Paibian,Jiangshanian,Cambrian Stage 10",system_period,485.4,538.8,,Phanerozoic,Paleozoic,Cambrian,,,3
+Mississippian,"Mississippian,Lower Mississippian,Tournaisian,Middle Mississippian,Visean,Upper Mississippian,Serpukhovian",series_epoch,323.2,358.9,,Phanerozoic,Paleozoic,Carboniferous,Mississippian,,4
+Tournaisian,Tournaisian,stage_age,346.7,358.9,,Phanerozoic,Paleozoic,Carboniferous,"Mississippian,Lower Mississippian",Tournaisian,5
+Lower Mississippian,"Lower Mississippian,Tournaisian",series_epoch,346.7,358.9,,Phanerozoic,Paleozoic,Carboniferous,"Mississippian,Lower Mississippian",,4
+Visean,Visean,stage_age,330.9,346.7,,Phanerozoic,Paleozoic,Carboniferous,"Mississippian,Middle Mississippian",Visean,5
+Middle Mississippian,"Middle Mississippian,Visean",series_epoch,330.9,346.7,,Phanerozoic,Paleozoic,Carboniferous,"Mississippian,Middle Mississippian",,4
+Serpukhovian,"Upper Mississippian,Serpukhovian",stage_age,323.2,330.9,,Phanerozoic,Paleozoic,Carboniferous,"Mississippian,Upper Mississippian",Serpukhovian,5
+Upper Mississippian,"Upper Mississippian,Serpukhovian",series_epoch,323.2,330.9,,Phanerozoic,Paleozoic,Carboniferous,"Mississippian,Upper Mississippian",,4
+Pennsylvanian,"Pennsylvanian,Lower Pennsylvanian,Bashkirian,Middle Pennsylvanian,Moscovian,Upper Pennsylvanian,Gzhelian,Kasimovian",series_epoch,298.9,323.2,,Phanerozoic,Paleozoic,Carboniferous,Pennsylvanian,,4
+Bashkirian,"Lower Pennsylvanian,Bashkirian",stage_age,315.2,323.2,,Phanerozoic,Paleozoic,Carboniferous,"Pennsylvanian,Lower Pennsylvanian",Bashkirian,5
+Lower Pennsylvanian,"Lower Pennsylvanian,Bashkirian",series_epoch,315.2,323.2,,Phanerozoic,Paleozoic,Carboniferous,"Pennsylvanian,Lower Pennsylvanian",,4
+Moscovian,"Middle Pennsylvanian,Moscovian",stage_age,307,315.2,,Phanerozoic,Paleozoic,Carboniferous,"Pennsylvanian,Middle Pennsylvanian",Moscovian,5
+Middle Pennsylvanian,"Middle Pennsylvanian,Moscovian",series_epoch,307,315.2,,Phanerozoic,Paleozoic,Carboniferous,"Pennsylvanian,Middle Pennsylvanian",,4
+Gzhelian,Gzhelian,stage_age,298.9,303.7,,Phanerozoic,Paleozoic,Carboniferous,"Pennsylvanian,Upper Pennsylvanian",Gzhelian,5
+Kasimovian,Kasimovian,stage_age,303.7,307,,Phanerozoic,Paleozoic,Carboniferous,"Pennsylvanian,Upper Pennsylvanian",Kasimovian,5
+Upper Pennsylvanian,"Upper Pennsylvanian,Gzhelian,Kasimovian",series_epoch,298.9,307,,Phanerozoic,Paleozoic,Carboniferous,"Pennsylvanian,Upper Pennsylvanian",,4
+Carboniferous,"Carboniferous,Pennsylvanian,Mississippian,Lower Pennsylvanian,Bashkirian,Middle Pennsylvanian,Moscovian,Upper Pennsylvanian,Gzhelian,Kasimovian,Lower Mississippian,Tournaisian,Middle Mississippian,Visean,Upper Mississippian,Serpukhovian",system_period,298.9,358.9,,Phanerozoic,Paleozoic,Carboniferous,,,3
+Emsian,Emsian,stage_age,393.3,407.6,,Phanerozoic,Paleozoic,Devonian,Lower Devonian,Emsian,5
+Lochkovian,Lochkovian,stage_age,410.8,419.2,,Phanerozoic,Paleozoic,Devonian,Lower Devonian,Lochkovian,5
+Pragian,Pragian,stage_age,407.6,410.8,,Phanerozoic,Paleozoic,Devonian,Lower Devonian,Pragian,5
+Lower Devonian,"Lower Devonian,Lochkovian,Pragian,Emsian",series_epoch,393.3,419.2,,Phanerozoic,Paleozoic,Devonian,Lower Devonian,,4
+Eifelian,Eifelian,stage_age,387.7,393.3,,Phanerozoic,Paleozoic,Devonian,Middle Devonian,Eifelian,5
+Givetian,Givetian,stage_age,382.7,387.7,,Phanerozoic,Paleozoic,Devonian,Middle Devonian,Givetian,5
+Middle Devonian,"Middle Devonian,Eifelian,Givetian",series_epoch,382.7,393.3,,Phanerozoic,Paleozoic,Devonian,Middle Devonian,,4
+Famennian,Famennian,stage_age,358.9,372.2,,Phanerozoic,Paleozoic,Devonian,Upper Devonian,Famennian,5
+Frasnian,Frasnian,stage_age,372.2,382.7,,Phanerozoic,Paleozoic,Devonian,Upper Devonian,Frasnian,5
+Upper Devonian,"Upper Devonian,Frasnian,Famennian",series_epoch,358.9,382.7,,Phanerozoic,Paleozoic,Devonian,Upper Devonian,,4
+Devonian,"Devonian,Lower Devonian,Middle Devonian,Upper Devonian,Lochkovian,Pragian,Emsian,Eifelian,Givetian,Frasnian,Famennian",system_period,358.9,419.2,,Phanerozoic,Paleozoic,Devonian,,,3
+Floian,Floian,stage_age,470,477.7,,Phanerozoic,Paleozoic,Ordovician,Lower Ordovician,Floian,5
+Tremadocian,Tremadocian,stage_age,477.7,485.4,,Phanerozoic,Paleozoic,Ordovician,Lower Ordovician,Tremadocian,5
+Lower Ordovician,"Lower Ordovician,Tremadocian,Floian",series_epoch,470,485.4,,Phanerozoic,Paleozoic,Ordovician,Lower Ordovician,,4
+Dapingian,Dapingian,stage_age,467.3,470,,Phanerozoic,Paleozoic,Ordovician,Middle Ordovician,Dapingian,5
+Darriwilian,Darriwilian,stage_age,458.4,467.3,,Phanerozoic,Paleozoic,Ordovician,Middle Ordovician,Darriwilian,5
+Middle Ordovician,"Middle Ordovician,Dapingian,Darriwilian",series_epoch,458.4,470,,Phanerozoic,Paleozoic,Ordovician,Middle Ordovician,,4
+Hirnantian,Hirnantian,stage_age,443.8,445.2,,Phanerozoic,Paleozoic,Ordovician,Upper Ordovician,Hirnantian,5
+Katian,Katian,stage_age,445.2,453,,Phanerozoic,Paleozoic,Ordovician,Upper Ordovician,Katian,5
+Sandbian,Sandbian,stage_age,453,458.4,,Phanerozoic,Paleozoic,Ordovician,Upper Ordovician,Sandbian,5
+Upper Ordovician,"Upper Ordovician,Sandbian,Katian,Hirnantian",series_epoch,443.8,458.4,,Phanerozoic,Paleozoic,Ordovician,Upper Ordovician,,4
+Ordovician,"Ordovician,Lower Ordovician,Middle Ordovician,Upper Ordovician,Tremadocian,Floian,Dapingian,Darriwilian,Sandbian,Katian,Hirnantian",system_period,443.8,485.4,,Phanerozoic,Paleozoic,Ordovician,,,3
+Artinskian,Artinskian,stage_age,283.5,290.1,,Phanerozoic,Paleozoic,Permian,Cisuralian,Artinskian,5
+Asselian,Asselian,stage_age,293.52,289.9,,Phanerozoic,Paleozoic,Permian,Cisuralian,Asselian,5
+Kungurian,Kungurian,stage_age,273.01,283.5,,Phanerozoic,Paleozoic,Permian,Cisuralian,Kungurian,5
+Sakmarian,Sakmarian,stage_age,290.1,293.52,,Phanerozoic,Paleozoic,Permian,Cisuralian,Sakmarian,5
+Cisuralian,"Cisuralian,Kungurian,Artinskian,Sakmarian,Asselian",series_epoch,273.01,298.9,,Phanerozoic,Paleozoic,Permian,Cisuralian,,4
+Capitanian,Capitanian,stage_age,259.51,264.28,,Phanerozoic,Paleozoic,Permian,Guadalupian,Capitanian,5
+Roadian,Roadian,stage_age,266.9,273.01,,Phanerozoic,Paleozoic,Permian,Guadalupian,Roadian,5
+Wordian,Wordian,stage_age,264.28,266.9,,Phanerozoic,Paleozoic,Permian,Guadalupian,Wordian,5
+Guadalupian,"Guadalupian,Capitanian,Wordian,Roadian",series_epoch,259.51,273.01,,Phanerozoic,Paleozoic,Permian,Guadalupian,,4
+Changhsingian,Changhsingian,stage_age,251.902,254.14,,Phanerozoic,Paleozoic,Permian,Lopingian,Changhsingian,5
+Wuchiapingian,Wuchiapingian,stage_age,254.14,259.51,,Phanerozoic,Paleozoic,Permian,Lopingian,Wuchiapingian,5
+Lopingian,"Lopingian,Changhsingian,Wuchiapingian",series_epoch,251.902,259.51,,Phanerozoic,Paleozoic,Permian,Lopingian,,4
+Permian,"Permian,Lopingian,Changhsingian,Wuchiapingian,Guadalupian,Capitanian,Wordian,Roadian,Cisuralian,Kungurian,Artinskian,Sakmarian,Asselian",system_period,251.902,289.9,,Phanerozoic,Paleozoic,Permian,,,3
+Aeronian,Aeronian,stage_age,438.5,440.8,,Phanerozoic,Paleozoic,Silurian,Llandovery,Aeronian,5
+Rhuddanian,Rhuddanian,stage_age,440.8,443.8,,Phanerozoic,Paleozoic,Silurian,Llandovery,Rhuddanian,5
+Telychian,Telychian,stage_age,433.4,438.5,,Phanerozoic,Paleozoic,Silurian,Llandovery,Telychian,5
+Llandovery,"Llandovery,Rhuddanian,Aeronian,Telychian",series_epoch,433.4,443.8,,Phanerozoic,Paleozoic,Silurian,Llandovery,,4
+Gorstian,Gorstian,stage_age,425.6,427.4,,Phanerozoic,Paleozoic,Silurian,Ludlow,Gorstian,5
+Ludfordian,Ludfordian,stage_age,423,425.6,,Phanerozoic,Paleozoic,Silurian,Ludlow,Ludfordian,5
+Ludlow,"Ludlow,Gorstian,Ludfordian",series_epoch,423,427.4,,Phanerozoic,Paleozoic,Silurian,Ludlow,,4
+Pridoli,Pridoli,series_epoch,419.2,423,,Phanerozoic,Paleozoic,Silurian,Pridoli,,4
+Homerian,Homerian,stage_age,427.4,430.5,,Phanerozoic,Paleozoic,Silurian,Wenlock,Homerian,5
+Sheinwoodian,Sheinwoodian,stage_age,430.5,433.4,,Phanerozoic,Paleozoic,Silurian,Wenlock,Sheinwoodian,5
+Wenlock,"Wenlock,Homerian,Sheinwoodian",series_epoch,427.4,433.4,,Phanerozoic,Paleozoic,Silurian,Wenlock,,4
+Silurian,"Silurian,Llandovery,Wenlock,Ludlow,Pridoli,Rhuddanian,Aeronian,Telychian,Sheinwoodian,Homerian,Gorstian,Ludfordian",system_period,419.2,443.8,,Phanerozoic,Paleozoic,Silurian,,,3
+Paleozoic,"Paleozoic,Carboniferous,Pennsylvanian,Mississippian,Lower Pennsylvanian,Bashkirian,Middle Pennsylvanian,Moscovian,Upper Pennsylvanian,Gzhelian,Kasimovian,Lower Mississippian,Tournaisian,Middle Mississippian,Visean,Upper Mississippian,Serpukhovian,Devonian,Silurian,Ordovician,Cambrian,Terreneuvian,Cambrian Series 2,Miaolingian,Furongian,Lower Ordovician,Middle Ordovician,Upper Ordovician,Llandovery,Wenlock,Ludlow,Pridoli,Lower Devonian,Middle Devonian,Upper Devonian,Fortunian,Cambrian Stage 2,Cambrian Stage 3,Cambrian Stage 4,Wuliuan,Drumian,Guzhangian,Paibian,Jiangshanian,Cambrian Stage 10,Tremadocian,Floian,Dapingian,Darriwilian,Sandbian,Katian,Hirnantian,Rhuddanian,Aeronian,Telychian,Sheinwoodian,Homerian,Gorstian,Ludfordian,Lochkovian,Pragian,Emsian,Eifelian,Givetian,Frasnian,Famennian,Permian,Lopingian,Changhsingian,Wuchiapingian,Guadalupian,Capitanian,Wordian,Roadian,Cisuralian,Kungurian,Artinskian,Sakmarian,Asselian",era_erathem,251.902,538.8,,Phanerozoic,Paleozoic,,,,2
+Phanerozoic,"Phanerozoic,Paleozoic,Devonian,Silurian,Ordovician,Cambrian,Terreneuvian,Cambrian Series 2,Miaolingian,Furongian,Lower Ordovician,Middle Ordovician,Upper Ordovician,Llandovery,Wenlock,Ludlow,Pridoli,Lower Devonian,Middle Devonian,Upper Devonian,Fortunian,Cambrian Stage 2,Cambrian Stage 3,Cambrian Stage 4,Wuliuan,Drumian,Guzhangian,Paibian,Jiangshanian,Cambrian Stage 10,Tremadocian,Floian,Dapingian,Darriwilian,Sandbian,Katian,Hirnantian,Rhuddanian,Aeronian,Telychian,Sheinwoodian,Homerian,Gorstian,Ludfordian,Lochkovian,Pragian,Emsian,Eifelian,Givetian,Frasnian,Famennian,Permian,Lopingian,Changhsingian,Wuchiapingian,Guadalupian,Capitanian,Wordian,Roadian,Cisuralian,Kungurian,Artinskian,Sakmarian,Asselian,Carboniferous,Pennsylvanian,Mississippian,Lower Pennsylvanian,Bashkirian,Middle Pennsylvanian,Moscovian,Upper Pennsylvanian,Gzhelian,Kasimovian,Lower Mississippian,Tournaisian,Middle Mississippian,Visean,Upper Mississippian,Serpukhovian,Mesozoic,Triassic,Lower Triassic,Olenekian,Induan,Middle Triassic,Ladinian,Anisian,Upper Triassic,Rhaetian,Norian,Carnian,Jurassic,Lower Jurassic,Toarcian,Pliensbachian,Sinemurian,Hettangian,Middle Jurassic,Callovian,Bathonian,Bajocian,Aalenian,Upper Jurassic,Tithonian,Kimmeridgian,Oxfordian,Cretaceous,Lower Cretaceous,Albian,Aptian,Barremian,Hauterivian,Valanginian,Berriasian,Upper Cretaceous,Maastrichtian,Campanian,Santonian,Coniacian,Turonian,Cenomanian,Cenozoic,Paleogene,Oligocene,Chattian,Rupelian,Eocene,Priabonian,Bartonian,Lutetian,Ypresian,Paleocene,Thanetian,Selandian,Danian,Neogene,Pliocene,Piacenzian,Zanclean,Miocene,Messinian,Tortonian,Serravallian,Langhian,Burdigalian,Aquitanian,Quaternary,Holocene,Meghalayan,Northgrippian,Greenlandian,Pleistocene,Upper Pleistocene,Chibanian,Calabrian,Gelasian",eon_eonothem,0,538.8,,Phanerozoic,,,,,1
